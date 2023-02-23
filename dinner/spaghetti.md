@@ -1,8 +1,8 @@
-# Replace with recipe name
+# Spaghetti
 
-## Servings: 
+## Servings: 6
 
-## Time to prepare: 
+## Time to prepare: 30 minutes
 
 ## Ingredients:
 
