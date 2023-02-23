@@ -1,8 +1,8 @@
-# Replace with recipe name
+# Replace with recipe name: French Toast
 
-## Servings: 
+## Servings: 6
 
-## Time to prepare: 
+## Time to prepare: 30 minutes
 
 ## Ingredients:
 
