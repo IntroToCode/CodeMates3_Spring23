@@ -4,10 +4,10 @@
 
 ## Time to prepare: 30 minutes
 
-## Ingredients:
+## Ingredients: Pasta, meatballs, sauce, mushrooms
 
 
-## Equipment needed:
+## Equipment needed: Bowl, spoon
 
 
 ## Steps for preparation:
