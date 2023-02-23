@@ -1,4 +1,4 @@
-# Spaghetti
+# Spaghetti & Meatballs
 
 ## Servings: 6
 
