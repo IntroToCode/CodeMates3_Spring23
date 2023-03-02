@@ -16,6 +16,7 @@ Salt to Taste
 ## Equipment needed:
 Pan 
 Stove
+Spatula
 
 
 ## Steps for preparation:
@@ -35,4 +36,5 @@ Because everyone loves French Toast!
 @cheriekwok
 @kichimori
 @josephyuberkeley
+@wesleysfng
 
