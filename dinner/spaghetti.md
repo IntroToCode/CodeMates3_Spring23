@@ -4,7 +4,7 @@
 
 ## Time to prepare: 30 minutes
 
-## Ingredients: Pasta, meatballs, sauce, mushrooms
+## Ingredients: Pasta, meatballs, sauce, mushrooms, onions, parmesan
 
 
 ## Equipment needed: Bowl, spoon
@@ -21,7 +21,7 @@
 
 
 ### Notes:
-Once serving your spaghetti, don't forget to have cheese.
+Once serving your spaghetti, don't forget to add parmesan!
 
 
 ### Codemates #3
