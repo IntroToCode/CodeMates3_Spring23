@@ -17,7 +17,8 @@
 4. Bring the water to a full, rolling boil. ...
 5. Stir to keep the pasta from sticking. ...
 6. Test the pasta two minutes before it's “ready” ...
-
+7. Sautee mushrooms and onions
+8. Add sauce and mix with ingredients
 
 
 ### Notes:
