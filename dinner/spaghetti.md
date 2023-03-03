@@ -26,3 +26,9 @@ Once serving your spaghetti, don't forget to add parmesan!
 
 
 ### Codemates #3
+@cheriekwok
+@josephyuberkeley
+@korawatt
+@wesleysfng
+@craig-kc
+@kichimori
