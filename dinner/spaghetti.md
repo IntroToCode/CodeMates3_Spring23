@@ -22,7 +22,7 @@
 
 
 ### Notes:
-Once serving your spaghetti, don't forget to add parmesan!
+Once serving your spaghetti, don't forget to add parmesan as much as you want!
 
 
 ### Codemates #3
