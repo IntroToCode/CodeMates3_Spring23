@@ -31,7 +31,7 @@ Step 3:
 Dunk bread in the egg mixture,soaking both side. Transfer to the hot skillet and cook until golden, 3 to 4 minutes per side. Per hot.
 
 ### Notes:
-Because everyone loves French Toast!
+Because everyone loves French Toast, don't forget to share with your friends and family!
 
 
 ### Codemates #
@@ -40,4 +40,4 @@ Because everyone loves French Toast!
 @josephyuberkeley
 @wesleysfng
 @craig-kc
-
+@korawatt
