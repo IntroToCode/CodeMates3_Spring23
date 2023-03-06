@@ -1,4 +1,4 @@
-# Replace with recipe name: French Toast
+# French Toast
 
 ## Servings: 6
 
