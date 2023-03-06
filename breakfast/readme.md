@@ -17,6 +17,8 @@ Salt to Taste
 Pan 
 Stove
 Spatula
+Fork 
+Butter knife
 
 
 ## Steps for preparation:
@@ -37,4 +39,5 @@ Because everyone loves French Toast!
 @kichimori
 @josephyuberkeley
 @wesleysfng
+@craig-kc
 
